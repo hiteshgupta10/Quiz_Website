@@ -61,7 +61,7 @@ function loadQuiz() {
 function foo() {
 var user_choice = window.confirm('Do you want go back to Quiz-Land');
 if(user_choice==true) {
-window.location=' http://127.0.0.1:5500/Quiz/main.html';  // you can also use element.submit() if your input type='submit' 
+window.location=' https://hiteshgupta10.github.io/Quiz_Website/WEBSITE_QUIZ/main.html';  // you can also use element.submit() if your input type='submit' 
 } else {
 return false;
 }
